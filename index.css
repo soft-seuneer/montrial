@@ -19,7 +19,7 @@ nav .container-fluid{
   z-index: 100;
   padding-top: 4px;
   padding-bottom: 4px;
-  width: 100%;
+  max-width: 100vw;
 }
 /* .navbar {
   position: fixed;
